@@ -1,0 +1,9 @@
+title: "My Portfolio"
+description: "Showcasing my projects and skills"
+theme: jekyll-theme-hacker
+author: Jacob Kim
+url: "https://korekim.github.io"   
+baseurl: ""                             
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
