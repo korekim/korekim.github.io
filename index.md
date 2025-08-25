@@ -7,24 +7,14 @@ I am a passionate cybersecurity student, exploring the world of ethical hacking,
 
 ## About Me
 
-- **Name:** [Your Name]
-- **Education:** [Your University], BSc in Cybersecurity
+- **Name:** Jacob Kim
+- **Education:** WGU, BS in Cybersecurity and Information Assurance (expected graduation July 2026)
 - **Interests:** Penetration Testing, CTFs, Malware Analysis, Secure Development
 
 ---
 
 ## Projects
-
-### 🔒 [VulnHub Writeups](https://github.com/yourusername/vulnhub-writeups)
-Documented solutions for various VulnHub machines, focusing on enumeration, exploitation, and post-exploitation.
-
-### 🛡️ [Network Defense Lab](https://github.com/yourusername/network-defense-lab)
-A collection of scripts and guides for setting up firewalls, IDS/IPS, and monitoring tools in a home lab.
-
-### 🐍 [Secure Python Scripts](https://github.com/yourusername/secure-python)
-Examples of secure coding practices in Python, including input validation and cryptography.
-
-### 🕵️ [CTF Challenges](https://github.com/yourusername/ctf-challenges)
+### 🕵️ [CTF Challenges](https://github.com/korekim/ctf-challenges)
 Writeups and solutions for Capture The Flag competitions, covering web, crypto, and reverse engineering.
 
 ---
@@ -32,8 +22,10 @@ Writeups and solutions for Capture The Flag competitions, covering web, crypto, 
 ## Certifications
 
 - **CompTIA Security+**
-- **TryHackMe: Advent of Cyber**
-- **Hack The Box: Starting Point**
+- **Associate of ISC2, SSCP Certified**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **ITIL Foundation v4**
 
 ---
 
@@ -45,10 +37,10 @@ Check out my latest posts on cybersecurity topics, tutorials, and walkthroughs.
 
 ## Contact
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Email:** your.email@example.com
-- **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-linkedin)
+- **GitHub:** [korekim](https://github.com/korekim)
+- **Email:** jacobjwkim@gmail.com
+- **LinkedIn:** [Jacob Kim](https://www.linkedin.com/in/jacob-j-w-kim-584b69189/)
 
 ---
 
-*Powered by the [Hacker Jekyll Theme](https://github.com/pages-themes/hacker)*
+
