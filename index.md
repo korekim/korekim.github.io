@@ -43,4 +43,8 @@ Check out my latest posts on cybersecurity topics, tutorials, and walkthroughs.
 
 ---
 
+## Resume
 
+You can download my resume here:
+
+[Download Resume (PDF)](./JakeResume.pdf)
