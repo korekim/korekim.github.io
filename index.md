@@ -9,14 +9,13 @@ I am a passionate cybersecurity student, exploring the world of ethical hacking,
 
 - **Name:** Jacob Kim
 - **Education:** WGU, BS in Cybersecurity and Information Assurance (expected graduation July 2026)
-- **Interests:** Penetration Testing, CTFs, Malware Analysis, Secure Development
+- **Interests:** Penetration Testing, CTFs, Cloud Security, Hardware Hacking, Secure Development
 
 ---
 
 ## Projects
 ### 🕵️ [CTF Challenges](https://github.com/korekim/ctf-challenges)
-Writeups and solutions for Capture The Flag competitions, covering web, crypto, and reverse engineering.
-
+Writeups and solutions for Capture The Flag competitions.
 ---
 
 ## Certifications
@@ -26,12 +25,6 @@ Writeups and solutions for Capture The Flag competitions, covering web, crypto, 
 - **CompTIA Network+**
 - **CompTIA A+**
 - **ITIL Foundation v4**
-
----
-
-## Blog
-
-Check out my latest posts on cybersecurity topics, tutorials, and walkthroughs.
 
 ---
 
