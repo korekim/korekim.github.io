@@ -1,0 +1,78 @@
+/* Hacker theme stylesheet */
+:root {
+    --main-bg-color: #0c0c0c;
+    --main-text-color: #00ff00;
+    --accent-color: #008f11;
+    --link-color: #00ff00;
+    --link-hover-color: #39ff14;
+}
+
+body {
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+}
+
+/* Terminal-like container */
+.terminal {
+    background-color: #000;
+    border: 1px solid var(--main-text-color);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+/* Blinking cursor effect */
+.cursor {
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+/* Code blocks */
+pre, code {
+    background-color: #1a1a1a;
+    border: 1px solid var(--accent-color);
+    border-radius: 3px;
+    padding: 10px;
+}
+
+/* Navigation */
+nav {
+    border-bottom: 1px solid var(--accent-color);
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+}
+
+/* Custom selection color */
+::selection {
+    background-color: var(--accent-color);
+    color: #fff;
+}
