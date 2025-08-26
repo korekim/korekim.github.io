@@ -6,6 +6,17 @@
     --link-color: #00ff00;
     --link-hover-color: #39ff14;
 }
+.header-text {
+    word-break: break-all;
+}
+
+@media screen and (max-width: 768px) {
+    .header-text {
+        display: inline-block;
+        max-width: 16ch;
+        overflow-wrap: break-word;
+    }
+}
 .header-text:hover {
     text-decoration: underline;
 }
