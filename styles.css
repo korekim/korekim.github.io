@@ -117,3 +117,26 @@ form label {
     margin-bottom: 5px;
     color: var(--accent-color);
 }
+
+/* Footer styling */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--main-bg-color);
+    border-top: 1px solid var(--accent-color);
+    padding: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+    color: var(--main-text-color);
+}
+
+/* Add padding to body to prevent content from being hidden behind footer */
+body {
+    padding-bottom: 60px;
+}
