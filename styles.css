@@ -6,7 +6,9 @@
     --link-color: #00ff00;
     --link-hover-color: #39ff14;
 }
-
+.header-text:hover {
+    text-decoration: underline;
+}
 body {
     background-color: var(--main-bg-color);
     color: var(--main-text-color);
