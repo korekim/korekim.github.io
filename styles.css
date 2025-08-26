@@ -7,15 +7,10 @@
     --link-hover-color: #39ff14;
 }
 .header-text {
+    display: inline-block;
+    max-width: 16ch;
     word-break: break-all;
-}
-
-@media screen and (max-width: 768px) {
-    .header-text {
-        display: inline-block;
-        max-width: 16ch;
-        overflow-wrap: break-word;
-    }
+    overflow-wrap: break-word;
 }
 .header-text:hover {
     text-decoration: underline;
