@@ -8,9 +8,16 @@
 }
 .header-text {
     display: inline-block;
-    max-width: 16ch;
-    word-break: break-all;
-    overflow-wrap: break-word;
+    white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+    .header-text {
+        max-width: 16ch;
+        word-break: break-all;
+        overflow-wrap: break-word;
+        white-space: normal;
+    }
 }
 .header-text:hover {
     text-decoration: underline;
